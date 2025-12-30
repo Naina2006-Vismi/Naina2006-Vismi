@@ -50,7 +50,7 @@
 
 ### 🔧 **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,kubernets,streamlitcommunitycloud," />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
 </p>
 
@@ -66,27 +66,60 @@
 ---
 
 # 🧩 Featured Projects  
-*(Click to view repos once you upload them)*
 
-### 🔬 **1. Multiple Disease Prediction System (Heart, Diabetes, Parkinson’s)**  
-- ML Classification models  
-- Streamlit / Flask UI option  
-- Medical AI Focus  
+### 🎓 Student Performance Prediction App  
+**ML-based web application to predict student final marks**
 
-### 🧠 **2. ZARA – AI Personal Assistant**  
-- NLP + Voice  
-- LLM powered  
-- Task automation bot  
+- Built end-to-end ML pipeline (data cleaning → training → evaluation → deployment)
+- Models used: Linear Regression, Decision Tree, Random Forest  
+- Achieved **R² score of 0.84** using Random Forest  
+- Interactive **Streamlit dashboard** with recommendations  
+- Real-world use case for **education analytics**
 
-### 🎙 **3. JARVIS – Female AI Voice Assistant**  
-- Voice recognition  
-- Python automation  
-- Real-time query + web tasks  
+**Tech:** Python, scikit-learn, Streamlit, Pandas, NumPy  
+🔗 Repo: https://github.com/Naina2006-Vismi/student-performance-project
+
+---
+
+### 🩺 Multiple Disease Prediction System  
+**Healthcare-focused ML system (Heart, Diabetes, Parkinson’s)**
+
+- Classification models for early disease risk prediction  
+- Emphasis on **medical data handling & evaluation metrics**  
+- Streamlit-based user interface  
+- Focus on real-world healthcare applications  
+
+**Tech:** Python, scikit-learn, Streamlit
+
+---
+
+### 🧠 COVID-19 X-ray Classification (EfficientNetB0)  
+**Deep Learning medical imaging project**
+
+- Multi-class classification using transfer learning  
+- Used EfficientNetB0 with data augmentation  
+- Evaluated using **AUC, Precision, Recall, Confusion Matrix**  
+- Experience with bias handling & model generalization  
+
+**Tech:** TensorFlow, Keras, CNNs, Medical Imaging
+
+---
+
+### 🤖 AI Assistants (ZARA & JARVIS)  
+- Built conversational AI and voice-based assistants  
+- Used NLP, LLM APIs, and automation logic  
+- Practical exposure to **AI agents and real-time interaction**
+
+**Tech:** Python, HuggingFace, LangChain, Speech APIs
+
+---
 
 ### 🎮 **4. Memory Game (Python/JS)**  
 - Logic game  
 - Clean UI  
 - Beginner-friendly but impressive  
+
+---
 
 ### 🤖 **5. AIML Mini Projects**  
 - Linear regression  
