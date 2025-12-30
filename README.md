@@ -99,8 +99,20 @@
 
 # 📈 GitHub Stats (Auto Light/Dark Mode)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina2006-Vismi&layout=compact&theme=tokyonight" height="160" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true"
+      height="160"
+    />
+  </picture>
 </p>
 
 ---
@@ -114,9 +126,21 @@
 
 # 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/Naina2006-Vismi/Naina2006-Vismi/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake.svg"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
-
 ---
 
 # 🎯 Current Learning Goals  
