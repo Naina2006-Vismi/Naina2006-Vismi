@@ -14,51 +14,61 @@
 
 # 💼 Skills & Tech Stack
 
-### 🚀 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,html,css" />
+## 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,html,css" />
 </p>
 
 ---
 
-### 🤖 **AI / Machine Learning**
-<p>
+## 🤖 AI / Machine Learning
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 **AI Agents, Bots & LLM Tools**
-<p>
+## 🧠 AI Agents, Bots & LLM Tools
+<p align="left">
   <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1A56DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 </p>
 
 ---
 
-### 🖥 **Web & App Development**
-<p>
+## 🖥 Web & Backend Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,mysql" />
 </p>
 
 ---
 
-### 🔧 **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,kubernets,streamlitcommunitycloud," />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
+## 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,kubernetes" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 **AR / VR Tools**
-<p>
+## 🌐 AR / VR Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
