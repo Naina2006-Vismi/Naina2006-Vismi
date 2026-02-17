@@ -167,24 +167,10 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+## 🐍 **Contribution Snake**
 <p align="center">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
 
 # 🎯 Current Learning Goals  
 ✔ Building **AI agents** & **AI bots**  
@@ -197,7 +183,7 @@
 
 # 📬 Connect With Me  
 <p align="center">
-  <a href="github: https://github.com/Naina2006-Vismi/"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+  <a href="twitteracc: https://x.com/NVismi28561"><img src="https://skillicons.dev/icons?i=twitter" height="50"></a>
   <a href="linkedinacc: https://www.linkedin.com/in/naina-vismi-221723282/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
   <a href="mailto:nainavismi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
 </p>
