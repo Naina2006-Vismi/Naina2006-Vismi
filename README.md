@@ -1,195 +1,108 @@
-<!-- Auto light/dark switching -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4500&color=6EE7B7&center=true&vCenter=true&width=800&lines=Hi+I'm+Naina+Vismi+👋;B.Tech+CSE+(AIML)+Student;Machine+Learning+%7C+AI+Developer;AI+Agents+%7C+AI+Bots+Builder;Aspiring+AR/VR+Developer;Tech+Explorer+%7C+Innovator" alt="Typing SVG" />
-</p>
+# Hi, I'm Naina Vismi 👋
+
+**B.Tech CSE (AIML) Student | AI & Machine Learning Developer**
+
+I build machine learning applications, AI-powered systems, and intelligent automation tools. My current focus is on **LLMs, AI Agents, RAG systems, Deep Learning, and production-ready AI deployments**.
+
+I'm actively exploring how AI can solve real-world problems across education, healthcare, and productivity domains while strengthening my software engineering and deployment skills.
 
 ---
 
-# 🌟 About Me  
-🎓 *B.Tech CSE (AIML)* student passionate about **AI, ML, DL, AI Agents, Bots, AR/VR, and full-stack development**.  
-💡 I love building **intelligent systems**, solving real-world problems, and experimenting with **new-age technologies**.  
-🚀 Actively learning advanced **AI frameworks, model deployment, and VR/AR applications**.  
+## 🚀 What I'm Working On
+
+- AI Agents and Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning and Computer Vision
+- LLM Applications with LangChain
+- Dockerized AI Deployment
+- MLOps Fundamentals
+- AR/VR Exploration with Unity
 
 ---
 
-# 💼 Skills & Tech Stack
+## 💻 Tech Stack
 
-## 🚀 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,html,css" />
-</p>
+### Languages
+Python • Java • JavaScript • C++ • C • HTML • CSS
 
----
+### AI & Machine Learning
+TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • Matplotlib
 
-## 🤖 AI / Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+### LLM & AI Agent Ecosystem
+OpenAI • Hugging Face • LangChain
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+### Web Development
+React • Node.js • Express.js • PHP • MySQL
+
+### Tools & Platforms
+Git • GitHub • Docker • Linux • Kubernetes • FastAPI • Streamlit • Vercel
 
 ---
 
-## 🧠 AI Agents, Bots & LLM Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-</p>
+## 🌟 Featured Projects
+
+### Student Performance Prediction
+Machine learning system that predicts student performance using multiple regression models and provides actionable insights through an interactive dashboard.
+
+**Tech:** Python, Scikit-Learn, Streamlit, Pandas
+
+🔗 https://github.com/Naina2006-Vismi/student-performance-project
 
 ---
 
-## 🖥 Web & Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,mysql" />
-</p>
+### Multiple Disease Prediction System
+Healthcare-focused machine learning application for predicting disease risks using structured medical data.
+
+**Tech:** Python, Scikit-Learn, Streamlit
 
 ---
 
-## 🔧 Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,kubernetes" />
-</p>
+### COVID-19 X-Ray Classification
+Deep learning project using EfficientNetB0 for medical image classification with transfer learning and model evaluation.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+**Tech:** TensorFlow, Keras, Computer Vision
 
 ---
 
-## 🌐 AR / VR Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal" />
-</p>
+### AI Assistants (ZARA & JARVIS)
+Conversational and voice-enabled assistants powered by NLP and LLM technologies.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+**Tech:** Python, LangChain, Hugging Face
 
 ---
 
-# 🧩 Featured Projects  
-
-### 🎓 Student Performance Prediction App  
-**ML-based web application to predict student final marks**
-
-- Built end-to-end ML pipeline (data cleaning → training → evaluation → deployment)
-- Models used: Linear Regression, Decision Tree, Random Forest  
-- Achieved **R² score of 0.84** using Random Forest  
-- Interactive **Streamlit dashboard** with recommendations  
-- Real-world use case for **education analytics**
-
-**Tech:** Python, scikit-learn, Streamlit, Pandas, NumPy  
-🔗 Repo: https://github.com/Naina2006-Vismi/student-performance-project
-
----
-
-### 🩺 Multiple Disease Prediction System  
-**Healthcare-focused ML system (Heart, Diabetes, Parkinson’s)**
-
-- Classification models for early disease risk prediction  
-- Emphasis on **medical data handling & evaluation metrics**  
-- Streamlit-based user interface  
-- Focus on real-world healthcare applications  
-
-**Tech:** Python, scikit-learn, Streamlit
-
----
-
-### 🧠 COVID-19 X-ray Classification (EfficientNetB0)  
-**Deep Learning medical imaging project**
-
-- Multi-class classification using transfer learning  
-- Used EfficientNetB0 with data augmentation  
-- Evaluated using **AUC, Precision, Recall, Confusion Matrix**  
-- Experience with bias handling & model generalization  
-
-**Tech:** TensorFlow, Keras, CNNs, Medical Imaging
-
----
-
-### 🤖 AI Assistants (ZARA & JARVIS)  
-- Built conversational AI and voice-based assistants  
-- Used NLP, LLM APIs, and automation logic  
-- Practical exposure to **AI agents and real-time interaction**
-
-**Tech:** Python, HuggingFace, LangChain, Speech APIs
-
----
-
-### 🎮 **4. Memory Game (Python/JS)**  
-- Logic game  
-- Clean UI  
-- Beginner-friendly but impressive  
-
----
-
-### 🤖 **5. AIML Mini Projects**  
-- Linear regression  
-- Classification  
-- Clustering  
-- Neural networks  
-- CNN basics  
-
----
-
-# 📈 GitHub Stats (Auto Light/Dark Mode)
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true"
-      height="160"
-    />
-  </picture>
-</p>
-
----
-
-# 🔥 Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naina2006-Vismi&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 **Contribution Snake**
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-# 🎯 Current Learning Goals  
-✔ Building **AI agents** & **AI bots**  
-✔ Implementing **LLMs with LangChain/RAG**  
-✔ Learning **HuggingFace**, transformers & fine-tuning  
-✔ Advancing in **Deep Learning (CNN, RNN)**  
-✔ Exploring **Dockerized ML Deployment**  
-
----
-
-# 📬 Connect With Me  
-<p align="center">
-  <a href="twitteracc: https://x.com/NVismi28561"><img src="https://skillicons.dev/icons?i=twitter" height="50"></a>
-  <a href="linkedinacc: https://www.linkedin.com/in/naina-vismi-221723282/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="mailto:nainavismi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-</p>
-
----
+## 📊 GitHub Activity
 
 <p align="center">
-  <b>⭐ Crafted with passion by Naina Vismi ⭐</b>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=tokyonight" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Naina2006-Vismi&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2026 Learning Roadmap
+
+- Advanced AI Agents
+- RAG Architectures
+- Fine-Tuning Open-Source LLMs
+- Multimodal AI Applications
+- MLOps & Model Deployment
+- Computer Vision Systems
+- Generative AI Engineering
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/naina-vismi/
+
+GitHub: https://github.com/Naina2006-Vismi
+
+Email: nainavismi03@gmail.com
+
+---
+
+*"Learning, building, and sharing AI solutions one project at a time."*
