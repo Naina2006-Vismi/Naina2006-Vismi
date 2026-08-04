@@ -277,16 +277,12 @@ Python-based voice assistant that listens for spoken commands and responds with 
      cache_seconds is added to reduce repeat load. For a permanent fix, self-host
      your own instance (fork the repo, deploy to your own Vercel) and swap the
      domain below from github-readme-stats.vercel.app to your-own-domain.vercel.app -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naina2006-Vismi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=A78BFA&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina2006-Vismi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
 <br/>
 <img src="https://streak-stats.demolab.com?user=Naina2006-Vismi&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naina2006-Vismi&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true" width="97%"/>
 </div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Naina2006-Vismi/Naina2006-Vismi/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</div>
+
 <br/>
 <div align="center">
 
