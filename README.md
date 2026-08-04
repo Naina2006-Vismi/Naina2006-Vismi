@@ -23,7 +23,6 @@
 <p>
   <a href="https://www.linkedin.com/in/naina-vismi-namburu/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0D1117" /></a>
   <a href="https://x.com/NVismi28561"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=A78BFA&labelColor=0D1117" /></a>
-  <a href="https://github.com/Naina2006-Vismi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117" /></a>
   <a href="https://naina2006-vismi.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0D1117" /></a>
   <a href="mailto:nainavismi03@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117" /></a>
 </p>
