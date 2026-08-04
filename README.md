@@ -304,42 +304,10 @@ Python-based voice assistant that listens for spoken commands and responds with 
 <!-- 9. ACHIEVEMENTS -->
 <!-- ============================================= -->
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naina2006-Vismi&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&row=1" />
-
-</div>
-
-- 🏆 Completed Kaggle's **5-Day AI Agents Intensive** (Google) — Vibe Coding track, Social Impact focus
-- ⚖️ Built **NyayaFlow AI** for the AI for Bharat Hackathon — court judgment → verified action plan pipeline
-- 🌱 Built **AutoTruth** at an Eco Hackathon — EV sustainability transparency platform
-- 💼 Dual internship delivering two production ML systems (Sentiment Analyzer + Traffic Violation Detector)
-
-<br/>
-
-<div align="center">
-
-### 𝟬𝟳 · Certifications
-
-</div>
-
-<!-- ============================================= -->
-<!-- 10. CERTIFICATIONS -->
-<!-- ============================================= -->
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|---|---|---|
-| <CERT_NAME_1> | <CERT_ISSUER_1> | <CERT_DATE_1> |
-| <CERT_NAME_2> | <CERT_ISSUER_2> | <CERT_DATE_2> |
-| <CERT_NAME_3> | <CERT_ISSUER_3> | <CERT_DATE_3> |
-
-</div>
-
-<br/>
-
-<div align="center">
+- 🏆 Completed Kaggle's **5-Day AI Agents Intensive** (Google) — Vibe Coding track, Social Impact focus.
+- ⚖️ Built **NyayaFlow AI** for the AI for Bharat Hackathon — court judgment → verified action plan pipeline.
+- 🌱 Built **AutoTruth** at an Eco Hackathon — EV sustainability transparency platform.
+- 💼 Dual internship delivering two production ML systems (Sentiment Analyzer + Traffic Violation Detector).
 
 ### 𝟬𝟴 · Learning Roadmap
 
